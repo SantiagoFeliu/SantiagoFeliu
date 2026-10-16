@@ -8,6 +8,14 @@ My public work covers local AI integrations, retrieval and memory architecture, 
 
 [LinkedIn](https://www.linkedin.com/in/santiagofeli%C3%BA) · [GitHub](https://github.com/SantiagoFeliu)
 
+## Engineering philosophy
+
+**Sustain · Extend · Deliver**
+
+Sustain reliable operations. Extend capabilities through purposeful automation. Deliver verifiable outcomes with traceability, controlled change and recovery in mind.
+
+My working principles: diagnose before modifying, verify before declaring success, and keep changes reversible whenever possible.
+
 ## Selected work
 
 | Project | Evidence | Status |
