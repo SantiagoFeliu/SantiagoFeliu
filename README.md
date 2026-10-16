@@ -40,7 +40,7 @@ Twenty years coordinating aviation, health, and emergency operations taught me t
 - **Linux/DevOps:** Installation guides, troubleshooting, reproducible deployments
 
 ### Private production systems
-- **n8n workflows:** 2+ years operational experience, 50+ active workflows, incident recovery and controlled deployments
+- **n8n workflows:** 2+ years operational experience with multiplatform automation (social media, document processing, API integrations), incident recovery and controlled deployments
 - **RAG + Knowledge Graphs:** Local LLM memory persistence, FAISS-backed retrieval, semantic architecture
 - **Failure diagnosis:** Production incident analysis, root cause verification, traceability logging
 
