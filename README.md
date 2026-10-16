@@ -2,7 +2,7 @@
 
 **AI Automation & Integration Specialist** | Python · n8n · FastAPI · MCP · Local AI
 
-I build operational AI systems and integration tools with a reliability-first discipline. Twenty+ years in safety-critical operations; now applying that framework to automation infrastructure.
+I build operational AI systems and integration tools with a reliability-first discipline. More than two decades in safety-critical operations shape how I investigate problems, learn unfamiliar technologies, integrate systems and verify outcomes.
 
 [LinkedIn](https://www.linkedin.com/in/santiagofeli%C3%BA) · [GitHub](https://github.com/SantiagoFeliu)
 
@@ -20,10 +20,24 @@ Twenty years coordinating aviation, health, and emergency operations taught me t
 
 ---
 
+## How I solve problems
+
+**Understand the problem → Research and learn → Design and integrate → Test and verify → Diagnose and adapt.**
+
+I learn by building. When a new technology looks useful, I study its constraints, test it in a controlled environment and decide whether it solves a real operational need. I do not treat a successful demo as proof of production readiness.
+
+When an approach fails, I trace the failure to its assumptions, interfaces and dependencies; use debugging and reverse engineering where appropriate; then redesign and retest. I am comfortable changing tools or architecture when evidence and requirements justify it.
+
+**A concrete example:** my persistent-memory work evolved from experiments with MemPalace, Graphiti and graph storage toward a Cognee-centered design focused on controlled ingestion, traceability and verified recall. The public repositories document this evolution; they do not claim a benchmarked head-to-head comparison or expose private data.
+
+---
+
 ## Selected work
 
 | Project | Evidence | Type |
 | --- | --- | --- |
+| [Agent Memory Lab](https://github.com/SantiagoFeliu/agent-memory-lab) | Historical design exploration: MemPalace, Graphiti, FalkorDB, SQLite, Python and MCP; synthetic examples | Documented case study |
+| [Cognee Persistent Memory Stack](https://github.com/SantiagoFeliu/cognee-persistent-memory-stack) | Ingestion lifecycle, hashing, backup, verification, recovery and local-first security | Reference architecture |
 | [Feliu Persistent Memory](https://github.com/SantiagoFeliu/Feliu-persistent-memory) | Local RAG, FAISS, Ollama, knowledge-graph documentation and security boundaries | Implementation (Private evolution) |
 | [Cassiopea Local Agent](https://github.com/SantiagoFeliu/cassiopea-local-agent) | FastAPI service with health checks, local Ollama, text generation | Implementation (POC) |
 | [Felius Transcriber](https://github.com/SantiagoFeliu/felius-transcriber) | Local video-to-text workflow using Whisper and yt-dlp, FastAPI | Implementation (Full) |
