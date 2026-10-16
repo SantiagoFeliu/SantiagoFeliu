@@ -1,0 +1,7 @@
+=== git status ===
+=== suspicious token patterns (excluding .git) ===
+/home/commander/portfolio-workspace-20261015/repos/felius-transcriber/requirements.txt:47:tiktoken==0.12.0
+=== manifests ===
+/home/commander/portfolio-workspace-20261015/repos/felius-transcriber/requirements.txt
+/home/commander/portfolio-workspace-20261015/repos/cassiopea-local-agent/requirements.txt
+/home/commander/portfolio-workspace-20261015/repos/opencloud-linux-install-guide/.env.example
