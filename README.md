@@ -8,7 +8,7 @@ I build operational AI systems and integration tools with a reliability-first di
 
 ---
 
-## Why operations-first engineering matters
+## Why an operations-first approach matters
 
 Most automation tools prioritize feature velocity. I prioritize **reliability under uncertainty**:
 
@@ -36,6 +36,7 @@ When an approach fails, I trace the failure to its assumptions, interfaces and d
 
 | Project | Evidence | Type |
 | --- | --- | --- |
+| [n8n Resilient Integrations](https://github.com/SantiagoFeliu/n8n-resilient-integrations) | Importable synthetic n8n webhook examples, HTTP status contracts and documented limitations | Tested portfolio examples |
 | [Agent Memory Lab](https://github.com/SantiagoFeliu/agent-memory-lab) | Historical design exploration: MemPalace, Graphiti, FalkorDB, SQLite, Python and MCP; synthetic examples | Documented case study |
 | [Cognee Persistent Memory Stack](https://github.com/SantiagoFeliu/cognee-persistent-memory-stack) | Ingestion lifecycle, hashing, backup, verification, recovery and local-first security | Reference architecture |
 | [Feliu Persistent Memory](https://github.com/SantiagoFeliu/Feliu-persistent-memory) | Local RAG, FAISS, Ollama, knowledge-graph documentation and security boundaries | Implementation (Private evolution) |
@@ -54,7 +55,7 @@ When an approach fails, I trace the failure to its assumptions, interfaces and d
 - **Linux/DevOps:** Installation guides, troubleshooting, reproducible deployments
 
 ### Private production systems
-- **n8n workflows:** 2+ years operational experience with multiplatform automation (social media, document processing, API integrations), incident recovery and controlled deployments
+- **n8n workflows:** hands-on operational experience with multiplatform automation (social media, document processing, API integrations), incident recovery and controlled deployments
 - **RAG + Knowledge Graphs:** Local LLM memory persistence, FAISS-backed retrieval, semantic architecture
 - **Failure diagnosis:** Production incident analysis, root cause verification, traceability logging
 
@@ -91,10 +92,10 @@ No private workflows, datasets, credentials, internal topology, or production me
 ## Collaboration
 
 **Open to remote roles** in:
-- AI Automation Engineer
-- Workflow Integration Engineer  
-- Python Automation / Integration
-- AI Operations Engineer
-- Technical Operations with automation focus
+- AI Automation & Integration Specialist
+- Workflow Integration Specialist
+- Python Automation / Integration Specialist
+- AI Operations Specialist
+- Technical Operations Specialist (automation focus)
 
 **Location:** Buenos Aires, Argentina (UTC-3). Flexible for international timezone overlap.
