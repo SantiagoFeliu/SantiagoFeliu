@@ -40,7 +40,7 @@ When an approach fails, I trace the failure to its assumptions, interfaces and d
 | [Agent Memory Lab](https://github.com/SantiagoFeliu/agent-memory-lab) | Historical design exploration: MemPalace, Graphiti, FalkorDB, SQLite, Python and MCP; synthetic examples | Documented case study |
 | [Cognee Persistent Memory Stack](https://github.com/SantiagoFeliu/cognee-persistent-memory-stack) | Ingestion lifecycle, hashing, backup, verification, recovery and local-first security | Reference architecture |
 | [Feliu Persistent Memory](https://github.com/SantiagoFeliu/Feliu-persistent-memory) | Local RAG, FAISS, Ollama, knowledge-graph documentation and security boundaries | Implementation (Private evolution) |
-| [Cassiopea Local Agent](https://github.com/SantiagoFeliu/cassiopea-local-agent) | FastAPI service with health checks, local Ollama, text generation | Implementation (POC) |
+| [PC Local Agent](https://github.com/SantiagoFeliu/cassiopea-local-agent) | FastAPI service with health checks, local Ollama, text generation | Implementation (POC) |
 | [Felius Transcriber](https://github.com/SantiagoFeliu/felius-transcriber) | Local video-to-text workflow using Whisper and yt-dlp, FastAPI | Implementation (Full) |
 | [OpenClaw Local Agent Guide](https://github.com/SantiagoFeliu/openclaw-local-agent-guide) | Real-world deployment guide for Linux, Ollama, Telegram integration | Operational Guide |
 
@@ -49,7 +49,7 @@ When an approach fails, I trace the failure to its assumptions, interfaces and d
 ## Technical depth
 
 ### Public code
-- **FastAPI:** API design, health checks, integration patterns ([Cassiopea](https://github.com/SantiagoFeliu/cassiopea-local-agent), [Felius Transcriber](https://github.com/SantiagoFeliu/felius-transcriber))
+- **FastAPI:** API design, health checks, integration patterns ([PC Local Agent](https://github.com/SantiagoFeliu/cassiopea-local-agent), [Felius Transcriber](https://github.com/SantiagoFeliu/felius-transcriber))
 - **Local AI:** Ollama deployment, Whisper integration, local-first architecture
 - **Python services:** Integration tooling, automation scripts, system reliability patterns
 - **Linux/DevOps:** Installation guides, troubleshooting, reproducible deployments
