@@ -39,9 +39,9 @@ When an approach fails, I trace the failure to its assumptions, interfaces and d
 | [n8n Resilient Integrations](https://github.com/SantiagoFeliu/n8n-resilient-integrations) | Importable synthetic n8n webhook examples, HTTP status contracts and documented limitations | Tested portfolio examples |
 | [Agent Memory Lab](https://github.com/SantiagoFeliu/agent-memory-lab) | Historical design exploration: MemPalace, Graphiti, FalkorDB, SQLite, Python and MCP; synthetic examples | Documented case study |
 | [Cognee Persistent Memory Stack](https://github.com/SantiagoFeliu/cognee-persistent-memory-stack) | Ingestion lifecycle, hashing, backup, verification, recovery and local-first security | Reference architecture |
-| [Feliu Persistent Memory](https://github.com/SantiagoFeliu/Feliu-persistent-memory) | Local RAG, FAISS, Ollama, knowledge-graph documentation and security boundaries | Implementation (Private evolution) |
+| [Feliu Persistent Memory](https://github.com/SantiagoFeliu/Feliu-persistent-memory) | Local RAG, FAISS, Ollama, knowledge-graph documentation and security boundaries | Documented local case study |
 | [PC Local Agent](https://github.com/SantiagoFeliu/cassiopea-local-agent) | FastAPI service with health checks, local Ollama, text generation | Implementation (POC) |
-| [Felius Transcriber](https://github.com/SantiagoFeliu/felius-transcriber) | Local video-to-text workflow using Whisper and yt-dlp, FastAPI | Implementation (Full) |
+| [Felius Transcriber](https://github.com/SantiagoFeliu/felius-transcriber) | Local video-to-text workflow using Whisper and yt-dlp, FastAPI | Local utility (POC) |
 | [OpenClaw Local Agent Guide](https://github.com/SantiagoFeliu/openclaw-local-agent-guide) | Real-world deployment guide for Linux, Ollama, Telegram integration | Operational Guide |
 
 ---
